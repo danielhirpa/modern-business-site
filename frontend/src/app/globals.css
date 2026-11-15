@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #334155; /* Slate grey background */
+    color: #f1f5f9;            /* Crisp light silver/white text for readability */
+    min-height: 100vh;
+  }
+}
